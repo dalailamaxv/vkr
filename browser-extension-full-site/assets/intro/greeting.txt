@@ -1,0 +1,8 @@
+Greeting video preset target file.
+
+After running backend-full-site/generate_greeting_video.py,
+this folder should contain:
+
+  greeting.mp4
+
+The extension will use that video in the pinned avatar stage by default.
